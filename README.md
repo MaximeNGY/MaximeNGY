@@ -108,7 +108,7 @@ Bonjour 👋
 <!--- Affichage alternatif
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-huynh&show_icons=true&locale=fr&theme=aura_dark&custom_title=Mes%20statistiques%20GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximeNGY&show_icons=true&locale=fr&theme=dark_dark&custom_title=Mes%20statistiques%20GitHub" />
 </a>
 
 </br>
