@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaximeNGY
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python, C, Java, HTML, CSS, Bootstrap, JavaScript, PHP, SQL, React JS, 
+#  Maxime NGUYEN @MaximeNGY
 
-<!---
-MaximeNGY/MaximeNGY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bonjour 👋
+
+- Je suis intéresser par l'IA.
+- J'apprends actuellement le Python, C, Java, HTML, CSS, Bootstrap, JavaScript, PHP, SQL, React JS.
+- J'aime bien la musique et la physique et bien évidemment les ordinateurs.
