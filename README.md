@@ -1,4 +1,4 @@
-#  Maxime NGUYEN @MaximeNGY
+#  Maxime NGUYEN
 
 Bonjour 👋
 
