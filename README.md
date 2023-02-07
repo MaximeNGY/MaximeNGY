@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximeNGY
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python, C, Java, HTML, CSS, JavaScript, PHP, SQL
+- 🌱 I’m currently learning Python, C, Java, HTML, CSS, Bootstrap, JavaScript, PHP, SQL, React JS, 
 
 <!---
 MaximeNGY/MaximeNGY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
