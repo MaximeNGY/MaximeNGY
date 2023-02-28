@@ -62,6 +62,9 @@ Bonjour 👋
   <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" />
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="60" />
+  </a>
 </p>
                         
 <!--==========================================================-->                        
