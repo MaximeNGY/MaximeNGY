@@ -50,6 +50,12 @@ Bonjour 👋
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" />
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio" height="60" />
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png" alt="Arduino" height="60" />
+  </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" />
   </a>
