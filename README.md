@@ -2,7 +2,7 @@
 
 Bonjour 👋
 
-- J'apprends actuellement React JS, Vue JS et Node.js, SASS, Typescript.
+- J'apprends actuellement React JS, Vue JS, Node.js, SASS et Typescript.
 - J'aime bien la musique et la physique et bien évidemment les ordinateurs.
 
 <h2>Langages</h2>
