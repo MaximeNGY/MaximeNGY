@@ -65,6 +65,9 @@ Bonjour 👋
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="60" />
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://fr.wizcase.com/wp-content/uploads/2022/03/GiTlab-lOGO.png" alt="GitLab" height="60" />
+  </a>
 </p>
                         
 <!--==========================================================-->                        
