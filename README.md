@@ -2,7 +2,7 @@
 
 Bonjour 👋
 
-- J'apprends actuellement le Python, C, Java, HTML, CSS, Bootstrap, JavaScript, PHP, SQL, React JS.
+- J'apprends actuellement React JS, Vue JS et Node.js.
 - J'aime bien la musique et la physique et bien évidemment les ordinateurs.
 
 <h2>Langages</h2>
