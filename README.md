@@ -75,7 +75,7 @@ Bonjour 👋
     <img src="https://fr.wizcase.com/wp-content/uploads/2022/03/GiTlab-lOGO.png" alt="GitLab" height="60" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://servicenav.coservit.com/wp-content/uploads/2022/05/203.jpg" alt="Docker" height="60" />
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="60" />
   </a>
 </p>
                         
